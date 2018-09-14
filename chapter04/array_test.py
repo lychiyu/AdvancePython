@@ -1,0 +1,11 @@
+# coding: utf-8
+
+"""
+ Created by liuying on 2018/9/14.
+"""
+
+
+"""
+array deque
+"""
+
